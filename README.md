@@ -5,7 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=induwara-wk&label=Profile%20views&color=0e75b6&style=flat" alt="induwara-wk" /> </p>
 <hr>
 <br>
-- 🔭 I’m currently working on **SignTalk**
+
+- 🌱 I’m currently learning **Java, Python, Node.js, React.js, Flutter**
 
 - 🌱 I’m currently learning **Java, Python, Node.js, React.js, Flutter**
 
