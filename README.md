@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there I'm Induwara👋</h1>
+<h1 align="center"> Hi there! I'm Induwara👋</h1>
 
 <h3 align="center"> A full-stack developer from Sri Lanka</h3>
 
