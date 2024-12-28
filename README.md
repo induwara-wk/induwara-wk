@@ -1,4 +1,4 @@
-## Hi there I'm Induwara👋
+<h1 align="center"> Hi there I'm Induwara👋</h1>
 
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
