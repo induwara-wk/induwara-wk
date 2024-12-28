@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-- 🌱 I’m currently learning **Java, Python, Node.js, React.js, Flutter**
+- 🔭 I’m currently working on **SignTalk**
 
 - 🌱 I’m currently learning **Java, Python, Node.js, React.js, Flutter**
 
