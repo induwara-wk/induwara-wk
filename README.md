@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Java, Python, Node.js, Flutter**
 
-- 🤝 I’m looking for help with **Mobile Development**
-
 - 📫 How to reach me **induwara.develop@gmail.com**
 <br>
 
