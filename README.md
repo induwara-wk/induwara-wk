@@ -1,20 +1,72 @@
-<h1 align="center"> Hi there! I'm Induwara👋</h1>
+<h1 align="center">Hi, I'm Induwara 👋</h1>
 
-<h3 align="center"> A full-stack developer from Sri Lanka</h3>
+<h3 align="center">Software Engineer · Final year Computer Science student · Sri Lanka 🇱🇰</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=induwara-wk&label=Profile%20views&color=0e75b6&style=flat" alt="induwara-wk" /> </p>
+<p align="center">
+  <a href="https://induwara.co"><img src="https://img.shields.io/badge/Portfolio-induwara.co-0e75b6?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mail@induwara.co"><img src="https://img.shields.io/badge/Email-mail@induwara.co-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <img src="https://komarev.com/ghpvc/?username=induwara-wk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <hr>
-<br>
 
-- 🔭 I’m currently working on a project called **SignTalk**
+## 👨‍💻 About me
 
-- 🌱 I’m currently learning **Java, Python, Node.js, Flutter**
+I'm a final year BSc (Hons) Computer Science student at the **Informatics Institute of Technology** (affiliated with the University of Westminster, UK), with a year of industry experience as a **Software Engineer Intern at Mobitel**.
 
-- 📫 How to reach me **induwara.develop@gmail.com**
-<br>
+I build enterprise applications with **Java / Spring Boot microservices** and **Angular / React** frontends, and I've worked across the whole lifecycle: architecture design, implementation, deployment and knowledge transfer. Outside of work I'm into **AI driven tooling** and **Linux based infrastructure**, and I run my own home server.
 
-<h3 align="left">Languages and Tools:</h3><br>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=induwara-wk&" alt="induwara-wk" /></p>
-<br>
+- 🔭 Currently building **IntentGuard**, my final year research project on detecting microservice anti patterns
+- 🛠️ Rearchitecting **Central**, my self hosted server monitoring platform, into NestJS + React
+- 🎓 Expected graduation: mid 2027
+- 📫 Reach me at **mail@induwara.co**
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 📊 **Central** | Self hosted, real time server monitoring dashboard that reads Linux kernel interfaces directly, no monitoring libraries | Node.js, Express, React, TypeScript, Docker, Nginx |
+| 🏠 **Home Server** | Five containerised services serving a household for nearly a year, with DNS filtering and Tailscale remote access, no public ports | Ubuntu Server, Docker Compose, Tailscale |
+| 🤟 **SignTalk** | Real time British and Sri Lankan Sign Language translation with an interpreter hiring platform (team project) | Python, Flutter, Node.js, MongoDB, Firebase |
+| 🎟️ **Realtime Event Ticketing** | Live ticket availability over WebSockets, plus a Java producer consumer simulation | Node.js, React, WebSockets, Java |
+
+✍️ I also wrote [*What is a Home Server? Lessons from a Year of Self Hosting*](https://medium.com/@YOUR-MEDIUM) on Medium.
+
+## 🧰 Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,html,css" alt="Languages" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,fastapi" alt="Backend" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,flutter" alt="Frontend" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" />
+</p>
+
+**DevOps and tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,azure,git,idea,androidstudio,figma" alt="DevOps and tools" />
+</p>
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=induwara-wk&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwara-wk&layout=compact&hide_border=true" alt="Top languages" />
+</p>
