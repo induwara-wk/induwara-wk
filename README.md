@@ -10,31 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=induwara-wk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<hr>
+Software engineer and final year Computer Science student at the Informatics Institute of Technology (University of Westminster, UK), based in Sri Lanka.
 
-## 👨‍💻 About me
+I spent the last year as a Software Engineer Intern at Mobitel, building enterprise telecom applications with Java/Spring Boot microservices and Angular/React frontends. I like working across the whole stack, from designing the architecture to shipping it, and I'm especially interested in AI driven tooling and Linux infrastructure.
 
-I'm a final year BSc (Hons) Computer Science student at the **Informatics Institute of Technology** (affiliated with the University of Westminster, UK), with a year of industry experience as a **Software Engineer Intern at Mobitel**.
+### What I'm working on
 
-I build enterprise applications with **Java / Spring Boot microservices** and **Angular / React** frontends, and I've worked across the whole lifecycle: architecture design, implementation, deployment and knowledge transfer. Outside of work I'm into **AI driven tooling** and **Linux based infrastructure**, and I run my own home server.
+- **IntentGuard** - my final year research project. A tool that detects architectural anti patterns in Java/Spring microservices by combining graph based rules, ML classifiers and an LLM that reads the source code.
+- **Central** - a self hosted server monitoring dashboard that reads Linux kernel interfaces directly. Currently moving it to NestJS and React.
+- **Home server** - Docker based setup running Jellyfin, Nextcloud, AdGuard Home and more, accessed remotely over Tailscale. I wrote about the first year of running it [on Medium](https://medium.com/@YOUR-MEDIUM).
 
-- 🔭 Currently building **IntentGuard**, my final year research project on detecting microservice anti patterns
-- 🛠️ Rearchitecting **Central**, my self hosted server monitoring platform, into NestJS + React
-- 🎓 Expected graduation: mid 2027
-- 📫 Reach me at **mail@induwara.co**
+- Reach me at **mail@induwara.co**
 
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 📊 **Central** | Self hosted, real time server monitoring dashboard that reads Linux kernel interfaces directly, no monitoring libraries | Node.js, Express, React, TypeScript, Docker, Nginx |
-| 🏠 **Home Server** | Five containerised services serving a household for nearly a year, with DNS filtering and Tailscale remote access, no public ports | Ubuntu Server, Docker Compose, Tailscale |
-| 🤟 **SignTalk** | Real time British and Sri Lankan Sign Language translation with an interpreter hiring platform (team project) | Python, Flutter, Node.js, MongoDB, Firebase |
-| 🎟️ **Realtime Event Ticketing** | Live ticket availability over WebSockets, plus a Java producer consumer simulation | Node.js, React, WebSockets, Java |
-
-✍️ I also wrote [*What is a Home Server? Lessons from a Year of Self Hosting*](https://medium.com/@YOUR-MEDIUM) on Medium.
-
-## 🧰 Tech stack
+## Tech stack
 
 **Languages**
 <p>
