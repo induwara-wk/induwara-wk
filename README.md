@@ -4,23 +4,23 @@
 
 <p align="center">
   <a href="https://induwara.co"><img src="https://img.shields.io/badge/Portfolio-induwara.co-0e75b6?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:mail@induwara.co"><img src="https://img.shields.io/badge/Email-mail@induwara.co-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@YOUR-MEDIUM"><img src="https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:hello@induwara.co"><img src="https://img.shields.io/badge/Email-hello@induwara.co-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/induwara-arachchi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@i.induwaraarachchi"><img src="https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
   <img src="https://komarev.com/ghpvc/?username=induwara-wk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-Software engineer and final year Computer Science student at the Informatics Institute of Technology (University of Westminster, UK), based in Sri Lanka.
+Software engineer and final year Computer Science student at the Informatics Institute of Technology (University of Westminster, UK) based in Sri Lanka.
 
-I spent the last year as a Software Engineer Intern at Mobitel, building enterprise telecom applications with Java/Spring Boot microservices and Angular/React frontends. I like working across the whole stack, from designing the architecture to shipping it, and I'm especially interested in AI driven tooling and Linux infrastructure.
+I spent the last year as a Software Engineer Intern at Mobitel (Pvt) Ltd, building enterprise telecom applications with Java/Spring Boot microservices and Angular/React frontends. I like working across the whole stack, from designing the architecture to shipping it and I'm especially interested in AI driven tooling and Linux infrastructure.
 
 ### What I'm working on
 
 - **IntentGuard** - my final year research project. A tool that detects architectural anti patterns in Java/Spring microservices by combining graph based rules, ML classifiers and an LLM that reads the source code.
 - **Central** - a self hosted server monitoring dashboard that reads Linux kernel interfaces directly. Currently moving it to NestJS and React.
-- **Home server** - Docker based setup running Jellyfin, Nextcloud, AdGuard Home and more, accessed remotely over Tailscale. I wrote about the first year of running it [on Medium](https://medium.com/@YOUR-MEDIUM).
+- **Home server** - Docker based setup running Jellyfin, Nextcloud, AdGuard Home and more, accessed remotely over Tailscale. I wrote about the first year of running it on [Medium](https://medium.com/@i.induwaraarachchi/what-is-a-home-server-lessons-from-a-year-of-self-hosting-4656918e3782).
 
-- Reach me at **mail@induwara.co**
+- Reach me at **hello@induwara.co**
 
 ## Tech stack
 
